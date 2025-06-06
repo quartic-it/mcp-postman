@@ -1,6 +1,6 @@
 Generate and deploy an MCP-server (using Postman), and test it in a chat-client (using Cursor).
 
-- https://javascript.plainenglish.io/i-stopped-building-frontends-now-i-use-mcp-servers-to-let-ai-run-my-apps-178b0d7107ca
+https://javascript.plainenglish.io/i-stopped-building-frontends-now-i-use-mcp-servers-to-let-ai-run-my-apps-178b0d7107ca
 
 # Install cursor IDE
 
